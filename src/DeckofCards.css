@@ -1,0 +1,27 @@
+.Deck {
+    text-align: center;
+  }
+  
+  .Draw-card {
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin: 0 10px;
+  }
+  
+  .Draw-card:hover {
+    cursor: pointer;
+    background-color: #444;
+  }
+  
+  .Draw-card:active,
+  .Draw-card:focus {
+    outline: none;
+  }
+  
+  .Deck-cardarea {
+    margin-top: 80px;
+  }
+  
